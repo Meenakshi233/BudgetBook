@@ -1,0 +1,11 @@
+
+{% extends 'layout.html' %}
+{% block body %}
+<div class="container mt-4">
+    <h2 style="text-align: center;" class="text-light">Comparison between Current and Previous Year</h2>
+    <div class="card bg-dark text-light p-3">
+        {{ plot_div | safe }}
+    </div>
+    <a href="{{ url_for('addTransactions') }}" class="btn btn-info mt-3">Back</a>
+</div>
+{% endblock %}
