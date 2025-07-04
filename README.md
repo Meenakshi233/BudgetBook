@@ -71,28 +71,28 @@ Edit
 python app.py
 Open your browser and navigate to: http://localhost:5000
 
-📸 Screenshots
+## Screenshots
 Below are the key pages of the application:
 
-Sign Up Page
+### Sign Up Page
 ![Sign Up Page](/static/signup.png)
 
-Login Page
+### Login Page
 ![Login Page](static/loginPage.png)
 
-Add Transaction Page
+### Add Transaction Page
 ![Add Transactions Page](static/addTransactions.png)
 
-Transaction History Page
+### Transaction History Page
 ![Transaction History Page](static/transactionHistory.png)
 
-Category-Wise Pie Chart (Yearly)
+### Category-Wise Pie Chart (Yearly)
 ![Pie Chart](static/pieChart.png)
 
-Year-over-Year Comparison
+### Year-over-Year Comparison
 ![Yearly Comparison](static/yearlyComparison.png)
 
-Daily Line Chart (Current Month)
+### Daily Line Chart (Current Month)
 ![Monthly Comparison](static/monthlyChart.png)
 
 📧 Password Recovery
