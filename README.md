@@ -10,11 +10,11 @@ This web application helps users track their daily expenses efficiently. Users c
 
 - Data Visualization:
 
--- Category-wise Pie Chart (Yearly)
+  - Category-wise Pie Chart (Yearly)
 
--- Monthly Line Chart (Current Month)
+  - Monthly Line Chart (Current Month)
 
--- Year-over-Year Comparison Bar Chart
+  - Year-over-Year Comparison Bar Chart
 
 - Password Reset via Email: Reset your password with a secure email link.
 
