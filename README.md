@@ -93,21 +93,7 @@ Below are the key pages of the application:
 ## Password Recovery
 If a user forgets their password, they can request a reset link via email. Clicking the link will redirect them to a page to update their password securely.
 
-📁 Project Structure (Highlights)
-cpp
-Copy
-Edit
-Expense-Tracker/
-│
-├── app.py
-├── templates/
-│   ├── login.html
-│   ├── register.html
-│   ├── dashboard.html
-│   └── ...
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── queries.sql
-└── README.md
+## Project Structure (Highlights)
+<pre><code>```cpp 
+  Expense-Tracker/ 
+  │ ├── app.py ├── templates/ │ ├── login.html │ ├── register.html │ ├── dashboard.html │ └── ... ├── static/ │ ├── css/ │ ├── js/ │ └── images/ ├── queries.sql └── README.md ```</code></pre>
