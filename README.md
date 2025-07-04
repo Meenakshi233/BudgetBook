@@ -10,15 +10,15 @@ This web application helps users track their daily expenses efficiently. Users c
 
 - Data Visualization:
 
-### Category-wise Pie Chart (Yearly)
+-- Category-wise Pie Chart (Yearly)
 
-### Monthly Line Chart (Current Month)
+-- Monthly Line Chart (Current Month)
 
-Year-over-Year Comparison Bar Chart
+-- Year-over-Year Comparison Bar Chart
 
-🔒 Password Reset via Email: Reset your password with a secure email link.
+- Password Reset via Email: Reset your password with a secure email link.
 
-📱 Mobile Responsive: Works well on mobile, tablet, and desktop.
+- Mobile Responsive: Works well on mobile, tablet, and desktop.
 
 ## Requirements
 Make sure you have the following installed on your system:
@@ -29,7 +29,7 @@ Make sure you have the following installed on your system:
 
 - MySQL server running locally
 
-## Set your MySQL password as an environment variable:
+### Set your MySQL password as an environment variable:
 
 ```bash
 export MYSQL_PWD=your_mysql_password
