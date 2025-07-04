@@ -48,11 +48,12 @@ pip install passlib
 🚀 Quick Start
 ## Clone the repository:
 
-bash
+``` bash
 Copy
 Edit
 git clone https://github.com/Meenakshi233/BudgetBook
 cd Expense-Tracker
+``` 
 Set up the database:
 
 Make sure MySQL is running.
