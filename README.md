@@ -75,8 +75,10 @@ Open your browser and navigate to: http://localhost:5000
 Below are the key pages of the application:
 
 Sign Up Page
+![Sign Up Page](/static/signup.png)
 
 Login Page
+![Login Page](static/loginPage.png)
 
 Add Transaction Page
 
