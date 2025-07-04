@@ -2,17 +2,17 @@
 This web application helps users track their daily expenses efficiently. Users can log their expenses, view their transaction history, and analyze their spending patterns using visual charts. The app provides month-wise and year-wise summaries and enables comparisons across different time periods.
 
 ## Features
--- User Authentication: Sign up, log in, and manage your account securely.
+- User Authentication: Sign up, log in, and manage your account securely.
 
--- Add Transactions: Input daily expenses with ease.
+- Add Transactions: Input daily expenses with ease.
 
-📊 View History: Filter and view expense history by month and year.
+- View History: Filter and view expense history by month and year.
 
-📉 Data Visualization:
+- Data Visualization:
 
-Category-wise Pie Chart (Yearly)
+### Category-wise Pie Chart (Yearly)
 
-Monthly Line Chart (Current Month)
+### Monthly Line Chart (Current Month)
 
 Year-over-Year Comparison Bar Chart
 
