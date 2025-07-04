@@ -96,4 +96,17 @@ If a user forgets their password, they can request a reset link via email. Click
 ## Project Structure (Highlights)
 <pre><code>```cpp 
   Expense-Tracker/ 
-  │ ├── app.py ├── templates/ │ ├── login.html │ ├── register.html │ ├── dashboard.html │ └── ... ├── static/ │ ├── css/ │ ├── js/ │ └── images/ ├── queries.sql └── README.md ```</code></pre>
+  │ 
+  ├── app.py 
+  ├── templates/ 
+  │ ├── login.html 
+  │ ├── register.html 
+  │ ├── dashboard.html 
+  │ 
+  └── ... 
+  ├── static/ 
+  │ ├── css/ 
+  │ ├── js/ 
+  │ └── images/ 
+  ├── queries.sql 
+  └── README.md ```</code></pre>
