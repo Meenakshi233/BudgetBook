@@ -81,14 +81,19 @@ Login Page
 ![Login Page](static/loginPage.png)
 
 Add Transaction Page
+![Add Transactions Page](static/addTransactions.png)
 
 Transaction History Page
+![Transaction History Page](static/transactionHistory.png)
 
 Category-Wise Pie Chart (Yearly)
+![Pie Chart](static/pieChart.png)
 
 Year-over-Year Comparison
+![Yearly Comparison](static/yearlyComparison.png)
 
 Daily Line Chart (Current Month)
+![Monthly Comparison](static/monthlyChart.png)
 
 📧 Password Recovery
 If a user forgets their password, they can request a reset link via email. Clicking the link will redirect them to a page to update their password securely.
