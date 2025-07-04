@@ -100,13 +100,11 @@ If a user forgets their password, they can request a reset link via email. Click
   ├── app.py 
   ├── templates/ 
   │ ├── login.html 
-  │ ├── register.html 
-  │ ├── dashboard.html 
-  │ 
-  └── ... 
-  ├── static/ 
-  │ ├── css/ 
+  │ ├── addTransactions.html 
+  │ ├── index.html 
+  │ └── ... 
+  ├── static/  
   │ ├── js/ 
-  │ └── images/ 
+  │ └── styles/ 
   ├── queries.sql 
   └── README.md ```</code></pre>
