@@ -20,31 +20,29 @@ Year-over-Year Comparison Bar Chart
 
 📱 Mobile Responsive: Works well on mobile, tablet, and desktop.
 
-⚙️ Requirements
+## Requirements
 Make sure you have the following installed on your system:
 
-Python (3.x recommended)
+- Python (3.x recommended)
 
-pip package manager
+- pip package manager
 
-MySQL server running locally
+- MySQL server running locally
 
-Set your MySQL password as an environment variable:
+## Set your MySQL password as an environment variable:
 
-bash
-Copy
-Edit
+```bash
 export MYSQL_PWD=your_mysql_password
-Install dependencies:
+```
+### Install dependencies:
 
-bash
-Copy
-Edit
+```bash
 pip install flask
 pip install mysqlclient
 pip install flask-mysqldb
 pip install flask-WTF
 pip install passlib
+```
 🚀 Quick Start
 ## Clone the repository:
 
