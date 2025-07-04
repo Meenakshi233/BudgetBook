@@ -43,23 +43,23 @@ pip install flask-mysqldb
 pip install flask-WTF
 pip install passlib
 ```
-🚀 Quick Start
-## Clone the repository:
+## Quick Start
+### Clone the repository:
 
 ``` bash
 git clone https://github.com/Meenakshi233/BudgetBook
 cd Expense-Tracker
 ``` 
-Set up the database:
+### Set up the database:
 
 Make sure MySQL is running.
 
-Execute the SQL file to create necessary tables:
+### Execute the SQL file to create necessary tables:
 
 ``` bash
 mysql -u root < queries.sql
 ```
-Run the application:
+### Run the application:
 
 ```bash
 python app.py
@@ -90,7 +90,7 @@ Below are the key pages of the application:
 ### Daily Line Chart (Current Month)
 ![Monthly Comparison](static/monthlyChart.png)
 
-📧 Password Recovery
+## Password Recovery
 If a user forgets their password, they can request a reset link via email. Clicking the link will redirect them to a page to update their password securely.
 
 📁 Project Structure (Highlights)
