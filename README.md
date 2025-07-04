@@ -49,8 +49,6 @@ pip install passlib
 ## Clone the repository:
 
 ``` bash
-Copy
-Edit
 git clone https://github.com/Meenakshi233/BudgetBook
 cd Expense-Tracker
 ``` 
@@ -60,16 +58,14 @@ Make sure MySQL is running.
 
 Execute the SQL file to create necessary tables:
 
-bash
-Copy
-Edit
+``` bash
 mysql -u root < queries.sql
+```
 Run the application:
 
-bash
-Copy
-Edit
+```bash
 python app.py
+```
 Open your browser and navigate to: http://localhost:5000
 
 ## Screenshots
