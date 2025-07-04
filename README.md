@@ -46,12 +46,12 @@ pip install flask-mysqldb
 pip install flask-WTF
 pip install passlib
 🚀 Quick Start
-Clone the repository:
+## Clone the repository:
 
 bash
 Copy
 Edit
-git clone https://github.com/KavishShah09/Expense-Tracker.git
+git clone https://github.com/Meenakshi233/BudgetBook
 cd Expense-Tracker
 Set up the database:
 
